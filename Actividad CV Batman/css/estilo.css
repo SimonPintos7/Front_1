@@ -1,0 +1,189 @@
+#backround {
+    position: absolute;
+width: 1440px;
+height: 188.19px;
+left: 0px;
+top: 0px;
+
+background: #E6E6E6;
+}
+
+/* logo batman */
+
+#logo {
+position: absolute;
+width: 100px;
+height: 146.37px;
+left: 550px;
+top: 20.91px;
+
+background: url(batman.png);
+}
+
+#cabecera { 
+position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 188px;
+
+background: #C4C4C4;
+}
+
+#principal {
+    position: absolute;
+width: 1013px;
+height: 29.87px;
+left: 270px;
+top: 15.13px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 84.69%;
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+
+}
+
+#marquitos1 {
+    position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 376px;
+
+background: #C4C4C4;
+}
+
+#letritas1 {
+    position: absolute;
+width: 395.62px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+/* identical to box height, or 17px */
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+}
+
+#marquitos2 {
+    position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 518px;
+
+background: #C4C4C4;
+}
+
+#letritas2 {
+    position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+/* identical to box height, or 17px */
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+
+}
+
+#fechasyletras {
+    position: absolute;
+    left: 19px;
+}
+
+#marquitos3 {
+    position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 700px;
+
+background: #C4C4C4;
+}
+#letritas3 {
+    position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+/* identical to box height, or 17px */
+
+font-feature-settings: 'cpsp' on;
+
+color: #005677;
+
+}
+
+#footer { 
+    position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 987px;
+
+background: #005677;
+
+}
+
+#footerletras {
+    position: absolute;
+width: 145px;
+height: 17px;
+left: 601px;
+top: 10px;
+
+font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+
+
+color: #ffffff;
+}
+
+.logoinsta {
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 770px;
+top: 8px;
+
+}
+
+.logolinkedin {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 818px;
+top: 4px;
+
+}

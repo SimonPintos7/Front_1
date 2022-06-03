@@ -1,0 +1,298 @@
+#backround {
+position: absolute;
+width: 1440px;
+height: 188.19px;
+left: 0px;
+top: 0px;
+
+background-image: url("../img/Header.jpg");
+background-size: cover;
+}
+
+/* logo batman */
+
+#foto {
+border: 3px solid #00d4ff;
+border-radius: 70%;
+position: absolute;
+width: 200px;
+height: 150px;
+left: 70px;
+top: 17px;
+}
+
+#fotomi {
+border: 3px solid #eeff00;
+border-radius: 70%;
+position: absolute;
+width: 200px;
+height: 150px;
+left: 70px;
+top: 17px;
+}
+
+
+#cabecera { 
+position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 188px;
+
+background: linear-gradient(45deg, #0013e7, rgb(180, 180, 255));
+}
+
+#cabecerami{
+    position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 188px;
+
+background: linear-gradient(90deg, rgba(255,255,231,1) 5%, rgba(255,251,0,1) 23%, rgba(253,255,187,1) 88%);
+}
+
+#principal {
+position: absolute;
+width: 1013px;
+height: 29.87px;
+left: 270px;
+top: 15.13px;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 84.69%;
+color: #c8efff;
+}
+
+#principalmi {
+    position: absolute;
+width: 1013px;
+height: 29.87px;
+left: 270px;
+top: 15.13px;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 84.69%;
+color: #ffffff;
+}
+
+#marquitos1 {
+position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 240px;
+
+background: linear-gradient(45deg, rgb(0, 2, 113), rgb(52, 52, 110));
+}
+
+#marquitos1mi {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 240px;
+    
+    background: linear-gradient(45deg, rgb(221, 255, 0), rgb(251, 255, 175));
+    }
+
+#letritas1 {
+position: absolute;
+width: 395.62px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+color: #b7bdff;
+}
+
+#letritas1mi {
+    position: absolute;
+    width: 395.62px;
+    height: 17px;
+    left: 12.45px;
+    top: 7px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #ffffff;
+    }
+
+#marquitos2 {
+position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 370px;
+
+background: linear-gradient(45deg, rgb(0, 2, 113), rgb(52, 52, 110));
+}
+
+#marquitos2mi {
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 370px;
+    
+    background: linear-gradient(45deg, rgb(221, 255, 0), rgb(251, 255, 175));
+    }
+
+#letritas2 {
+position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+color: #b7bdff;
+}
+
+#letritas2mi {
+position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+color: #ffffff;
+}
+
+#fechasyletras {
+position: absolute;
+left: 19px;
+}
+
+#marquitos3 {
+position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 510px;
+
+background: linear-gradient(45deg, rgb(0, 2, 113), rgb(52, 52, 110));
+}
+#letritas3 {
+position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+/* identical to box height, or 17px */
+
+color: #b7bdff;
+
+}
+
+#footer { 
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 730px;
+
+background: #0033ff;
+}
+
+#footermi {
+position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 315px;
+
+background: linear-gradient(45deg, rgb(238, 255, 0), rgb(244, 255, 184));
+}
+
+#footerletras {
+position: absolute;
+width: 200px;
+height: 17px;
+left: 600px;
+top: 10px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+
+
+color: #ffffff;
+}
+
+.logoface {
+position: absolute;
+width: 25px;
+height: 24.5px;
+left: 810px;
+top: 6px;
+}
+
+.logolinkedin {
+position: absolute;
+width: 25px;
+height: 25px;
+left: 850px;
+top: 6px;
+
+}
+
+#letritas4 {
+position: absolute;
+width: 489.68px;
+height: 17px;
+left: 12.45px;
+top: 7px;
+
+font-family: 'Roboto Condensed', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+color: #b7bdff;
+}
+
+#marquitos4 {
+position: absolute;
+width: 1440px;
+height: 30px;
+left: 0px;
+top: 630px;
+background: linear-gradient(45deg, rgb(0, 2, 113), rgb(52, 52, 110));
+}
+
+/* .probando{
+color:blue;
+background-image: url("../img/logoinsta.png");
+background-attachment: fixed;
+background-size:contain;
+el cover intenta cubrir lo mas posible
+el contain hace que se repita la imagen como termina su resolucion
+}
+*/

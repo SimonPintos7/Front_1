@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+}
+
+.bar-discount{
+    margin: 0;
+    background-color: #1CD1B0;
+}
+
+.bar-discount p{
+    margin: 0;
+    padding: 16px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #00669F;
+    height: 101px;
+    box-shadow: 0px 8px 10px grey;
+}
+
+h1{
+    color: white;
+    margin-left: 20px;
+}
+
+.tarjeta {
+    z-index: -1;
+    margin-top: 154px;
+    margin-bottom: 154px;
+    height: 528px;
+    width: 300px;
+    position: relative;
+    text-align: center;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.tarjeta2 {
+    width: 301px;
+    height: 216px;
+    border-radius: 10px;
+}
+
+.info-tarjeta h2{
+   margin-top: 80px;
+}
+
+.info-tarjeta2 h2{
+    margin-top: 57px;
+}
+
+.info-tarjeta2 p {
+    padding: 15px;
+    text-align: left;
+    margin-bottom: 28px;
+}
+
+.info-tarjeta p {
+    padding: 15px;
+    text-align: left;
+    margin-bottom: 28px;
+}
+
+.perfil{
+    position: absolute;
+    border-radius: 50%;
+    top: 140px;
+    right: 90px;
+    box-shadow: 0px 8px 10px grey;
+}
+
+.perfil2 {
+    position: absolute;
+    border-radius: 50%;
+    top: 140px;
+    right: 85px;
+    width: 125px;
+    box-shadow: 0px 0px 0px grey;
+}
+
+.like{
+    position: absolute;
+    top: 15px;
+    right: 250px;
+}
+
+.boton{
+    color: white;
+    padding: 20px 40px;
+    background-color: #00669F;
+    margin-top: 40px;
+    box-shadow: 0px 8px 10px grey;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #00669F;
+    text-align: center;
+    color:  white;
+    height: 51px;
+    position: sticky;
+}
+
+footer span{
+    position: sticky;
+    margin-left: 20px;
+}
+
+@media (min-height: 667px) {
+    .tarjeta {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
